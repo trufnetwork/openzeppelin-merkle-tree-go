@@ -1,17 +1,15 @@
 # Openzeppelin Standard Tree Go
 
-Fork [@openzeppelin/merkle-tree](https://github.com/OpenZeppelin/merkle-tree)
+Fork [@FantasyJony/openzeppelin-merkle-tree-go](https://github.com/FantasyJony/openzeppelin-merkle-tree-go)
 
 A Go library to generate merkle trees and merkle proofs.
 
-![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/FantasyJony/openzeppelin-merkle-tree-go)
-![GitHub issues](https://img.shields.io/github/issues/FantasyJony/openzeppelin-merkle-tree-go)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/FantasyJony/openzeppelin-merkle-tree-go)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/FantasyJony/openzeppelin-merkle-tree-go/main)
+![GitHub tag (latest SemVer pre-release)](https://img.shields.io/github/v/tag/kwilteam/openzeppelin-merkle-tree-go)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/kwilteam/openzeppelin-merkle-tree-go/main)
 
-![GitHub go.mod Go version (branch & subdirectory of monorepo)](https://img.shields.io/github/go-mod/go-version/FantasyJony/openzeppelin-merkle-tree-go/main)
-[![Go Reference](https://pkg.go.dev/badge/github.com/FantasyJony/openzeppelin-merkle-tree-go.svg)](https://pkg.go.dev/github.com/FantasyJony/openzeppelin-merkle-tree-go)
-[![GitHub](https://img.shields.io/github/license/FantasyJony/openzeppelin-merkle-tree-go)](https://opensource.org/licenses/Apache-2.0)
+![GitHub go.mod Go version (branch & subdirectory of monorepo)](https://img.shields.io/github/go-mod/go-version/kwilteam/openzeppelin-merkle-tree-go/main)
+[![Go Reference](https://pkg.go.dev/badge/github.com/kwilteam/openzeppelin-merkle-tree-go.svg)](https://pkg.go.dev/github.com/kwilteam/openzeppelin-merkle-tree-go)
+[![GitHub](https://img.shields.io/github/license/kwilteam/openzeppelin-merkle-tree-go)](https://opensource.org/licenses/Apache-2.0)
 
 
 ## Installation

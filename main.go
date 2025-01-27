@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	smt "github.com/FantasyJony/openzeppelin-merkle-tree-go/standard_merkle_tree"
 	"github.com/ethereum/go-ethereum/common/hexutil"
+	smt "github.com/kwilteam/openzeppelin-merkle-tree-go/standard_merkle_tree"
 )
 
 func main() {
