@@ -1,4 +1,4 @@
-module github.com/kwilteam/openzeppelin-merkle-tree-go
+module github.com/trufnetwork/openzeppelin-merkle-tree-go
 
 go 1.22.0
 
